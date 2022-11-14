@@ -1,0 +1,14 @@
+{
+    "name": "gaudileo/biggie",
+    "autoload": {
+        "psr-4": {
+            "Gaudileo\\Biggie\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luciano"
+        }
+    ],
+    "require": {}
+}
